@@ -24,9 +24,9 @@ Boids-PE: A Deep Reinforcement Learning Approach for UAV Pursuit-Evasion: Integr
 
 See 
 
-[![](/videos/1v.s.1-v1.mp4 "1to13d-video")][1to13d-video]
+[![](/videos/1v.s.1-3D.mp4 "1to13d-video")][1to13d-video]
 
-Or click [this](https://github.com/albert-jin/boids-pe/blob/main/videos/1v.s.1-v1.mp4).
+Or click [this](https://github.com/albert-jin/boids-pe/blob/main/videos/1v.s.1-3D.mp4).
 
 ***
 
@@ -36,9 +36,9 @@ Or click [this](https://github.com/albert-jin/boids-pe/blob/main/videos/1v.s.1-v
 
 See 
 
-[![](/videos/4v.s.1-v1.mp4 "4to13d-video")][4to13d-video]
+[![](/videos/4v.s.1-3D.mp4 "4to13d-video")][4to13d-video]
 
-Or click [this](https://github.com/albert-jin/boids-pe/blob/main/videos/4v.s.1-v1.mp4).
+Or click [this](https://github.com/albert-jin/boids-pe/blob/main/videos/4v.s.1-3D.mp4).
 
 ***
 
